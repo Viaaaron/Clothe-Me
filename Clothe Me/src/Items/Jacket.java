@@ -12,22 +12,22 @@ public class Jacket {
 		switch (jacketNumber) {
 
 		case 1:
-			System.out.println("For a jacket, you will wear your Adidas Blue");
+			System.out.println("For a jacket, you will wear Adidas Blue");
 			break;
 		case 2:
-			System.out.println("For a jacket, you will wear your Adidas Black");
+			System.out.println("For a jacket, you will wear Adidas Black");
 			break;
 		case 3:
-			System.out.println("For a jacket, you will wear your White polo");
+			System.out.println("For a jacket, you will wear White polo");
 			break;
 		case 4:
-			System.out.println("For a jacket, you will wear your Arc' Terx");
+			System.out.println("For a jacket, you will wear Arc' Terx");
 			break;
 		case 5:
-			System.out.println("For a jacket, you will wear your Black Parka");
+			System.out.println("For a jacket, you will wear Black Parka");
 			break;
 		case 6:
-			System.out.println("For a jacket, you will wear your Green zip");
+			System.out.println("For a jacket, you will wear Green zip");
 			break;
 
 		}
