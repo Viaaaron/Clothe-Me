@@ -12,25 +12,25 @@ public class Shoes {
 		switch (shoeNumber) {
 
 		case 1:
-			System.out.println("... and for shoes, you will wear adidas Green");
+			System.out.println("Shoes: adidas Green");
 			break;
 		case 2:
-			System.out.println("... and for shoes, you will wear adidas Foams");
+			System.out.println("Shoes: adidas Foams");
 			break;
 		case 3:
-			System.out.println("... and for shoes, you will wear adidas Watershoe");
+			System.out.println("Shoes: adidas Watershoe");
 			break;
 		case 4:
-			System.out.println("... and for shoes, you will Desert Boots");
+			System.out.println("Shoes: Desert Boots");
 			break;
 		case 5:
-			System.out.println("... and for shoes, you will wear Steve Maddens");
+			System.out.println("Shoes: Steve Maddens");
 			break;
 		case 6:
-			System.out.println("... and for shoes, you will wear Kenndy's");
+			System.out.println("Shoes: Kenndy's");
 			break;
 		case 7:
-			System.out.println("... and for shoes, you will wear flops");
+			System.out.println("Shoes: Flops");
 			break;
 		}
 

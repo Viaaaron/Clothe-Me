@@ -12,22 +12,22 @@ public class Shirts {
 		switch (shirtNumber) {
 
 		case 1:
-			System.out.println("For shirt, you will wear Blue T");
+			System.out.println("Shirt: Blue T");
 			break;
 		case 2:
-			System.out.println("For shirt, you will wear Black T");
+			System.out.println("Shirt: Black T");
 			break;
 		case 3:
-			System.out.println("For shirt, you will wear Grey T");
+			System.out.println("Shirt:Grey T");
 			break;
 		case 4:
-			System.out.println("For shirt, you will wear Black V");
+			System.out.println("Shirt:Black V");
 			break;
 		case 5:
-			System.out.println("For shirt, you will wear Alcotraz T");
+			System.out.println("Shirt:Alcotraz T");
 			break;
 		case 6:
-			System.out.println("For shirt, you will wear Tan T");
+			System.out.println("Shirt: Tan T");
 			break;
 
 		}

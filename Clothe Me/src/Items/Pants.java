@@ -12,19 +12,19 @@ public class Pants {
 		switch (pantNumber) {
 
 		case 1:
-			System.out.println("For pants, you will wear Blue Jeans");
+			System.out.println("Pants: Blue Jeans");
 			break;
 		case 2:
-			System.out.println("For pants, you will wear Dark Blues");
+			System.out.println("Pants: Dark Blues");
 			break;
 		case 3:
-			System.out.println("For pants, you will wear Black Jeans");
+			System.out.println("Pants:Black Jeans");
 			break;
 		case 4:
-			System.out.println("For pants, you will wear Grey Vee's");
+			System.out.println("Pants: Grey Vee's");
 			break;
 		case 5:
-			System.out.println("For pants, you will wear Holy Jeans");
+			System.out.println("Pants: Holy Jeans");
 			break;
 
 		}
